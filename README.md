@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%fff&size=22&vCenter=true&lines=Hello+There!+;I'm+Nikolay+Benlioglu...;)](https://git.io/typing-svg)
 
-Has experience in backendn development. I develop my projects using Golang, Fiber, Postgresql, Couchbase, Elasticsearch, C#, ASP.NET, MSSQL. I like to learn and research new things. Organized, responsible and self-critical person, attentive to details as well, goal-oriented, team player.
+Has experience in backendn development. I develop my projects using Golang, Fiber, Postgresql, Couchbase, Elasticsearch, C#, ASP.NET and MSSQL. I like to learn and research new things. Organized, responsible and self-critical person, attentive to details as well, goal-oriented, team player.
 
 - 💬 Ask me about anything you want that helps you learn about me!
 
