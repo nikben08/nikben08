@@ -6,7 +6,7 @@ Has experience in backendn development. I develop my projects using Golang, Fibe
 
 - 💬 Ask me about anything you want that helps you learn about me!
 
-<strong> Im currently Computer Enginnering student at Pamukkale University! </strong>
+<strong> Im currently mathematician student at Pamukkale University! </strong>
 
 ## 🌐 Socials:
 
