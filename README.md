@@ -14,7 +14,7 @@ Has experience in web applications development, responsive design. I develop my 
 
 
 # 💻 Languages and Tools:
-<img src="https://skillicons.dev/icons?i=go,postgresql,couchbase,docker,cs,dotnet," alt="languages and tools">
+<img src="https://skillicons.dev/icons?i=go,postgresql,docker,cs,dotnet," alt="languages and tools">
 
 # 📈 Statistics:
 
