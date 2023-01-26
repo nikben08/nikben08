@@ -10,7 +10,7 @@ Has experience in backendn development. I develop my projects using Golang, Fibe
 
 ## 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/nikolay-benlioglu-b58517210/" target="_blank" rel="nofollow"><img alt="Nikolay's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nikolay-benlioglu/" target="_blank" rel="nofollow"><img alt="Nikolay's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 # 💻 Languages and Tools:
