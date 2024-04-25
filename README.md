@@ -38,3 +38,5 @@ Has experience in backendn development. I develop my projects using Java, Spring
 <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=nikben08&layout=compact&hide_border=true&theme=github_dark" />
 </a>
 </div>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
