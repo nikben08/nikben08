@@ -28,6 +28,4 @@ Has experience in backendn development. I develop my projects using Java, Spring
 
 </div>
 
-![snake svg](https://github.com/nikben08/nikben08/blob/output/github-contribution-grid-snake.svg)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=nikben08.nikben08)
