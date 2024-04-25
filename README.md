@@ -34,9 +34,5 @@ Has experience in backendn development. I develop my projects using Java, Spring
 <a href="https://github.com/nikben08">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikben08&layout=compact&hide_border=true&theme=github_dark" />
 </a>
-<a href="https://github.com/nikben08">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=nikben08&layout=compact&hide_border=true&theme=github_dark" />
-</a>
 </div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
