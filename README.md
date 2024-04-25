@@ -25,5 +25,4 @@ Has experience in backendn development. I develop my projects using Java, Spring
 
 </div>
 
-![](https://visitor-badge.glitch.me/badge?page_id=nikben08.nikben08)
 
