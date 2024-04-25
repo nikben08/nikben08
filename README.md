@@ -14,7 +14,7 @@ Has experience in backendn development. I develop my projects using Java, Spring
 
 
 # 💻 Languages and Tools:
-<img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,react,typescript,zustand,redux" alt="languages and tools">
+<img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,react,typescript,redux" alt="languages and tools">
 
 # 📈 Statistics:
 
