@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%fff&size=22&vCenter=true&lines=Hello+There!+;I'm+Nikolay+Benlioglu...;)](https://git.io/typing-svg)
 
-Has experience in backendn development. I develop my projects using Golang, Fiber, Postgresql, Couchbase, MongoDB, Docker, C#, ASP.NET and MSSQL. I like to learn and research new things. Organized, responsible and self-critical person, attentive to details as well, goal-oriented, team player.
+Has experience in backendn development. I develop my projects using Java, Spring Boot, Postgresql, MongoDB, Docker,  React, Typescript. I like to learn and research new things. Organized, responsible and self-critical person, attentive to details as well, goal-oriented, team player.
 
 - 💬 Ask me about anything you want that helps you learn about me!
 
@@ -14,7 +14,7 @@ Has experience in backendn development. I develop my projects using Golang, Fibe
 
 
 # 💻 Languages and Tools:
-<img src="https://skillicons.dev/icons?i=go,postgresql,docker,cs,dotnet,html,css" alt="languages and tools">
+<img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,react,typescript,zustand,redux" alt="languages and tools">
 
 # 📈 Statistics:
 
